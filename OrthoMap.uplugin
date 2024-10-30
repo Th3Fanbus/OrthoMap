@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"FriendlyName": "OrthoMap",
+	"Description": "An experimental orthographic minimap",
+	"Category": "Modding",
+	"CreatedBy": "Th3Fanbus",
+	"CreatedByURL": "https://github.com/Th3Fanbus",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/xkVJ73E",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OrthoMap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
+		}
+	],
+	"SemVersion": "2.0.0",
+	"AcceptsAnyRemoteVersion": true,
+	"GameVersion": ">=365306",
+	"RequiredOnRemote": false
+}
