@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 2,
-	"VersionName": "2.0.0",
+	"Version": 3,
+	"VersionName": "3.0.0",
 	"FriendlyName": "OrthoMap",
 	"Description": "An experimental orthographic minimap",
 	"Category": "Modding",
@@ -28,7 +28,7 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "2.0.0",
+	"SemVersion": "3.0.0",
 	"AcceptsAnyRemoteVersion": true,
 	"GameVersion": ">=365306",
 	"RequiredOnRemote": false
